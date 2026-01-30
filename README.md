@@ -1,3 +1,5 @@
+# revisado por Pedro Mollers
+
 # Mi CV - Claudia Osses Mundaca
 
 ¡Bienvenido/a a mi CV! Este proyecto es una recopilación integral de mi trayectoria y habilidades como Desarrolladora Front-end, desarrollado como parte del desafío final del módulo en **Desafío Latam**.
